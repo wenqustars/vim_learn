@@ -1,0 +1,42 @@
+{
+    "title": "Vim 学习笔记",
+    "description": "Vim 学习笔记",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {},
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "官方网站": "http://localhost:4002/"
+        }
+    },
+    "plugins": [ 
+      "-lunr", 
+      "-search", 
+      "search-pro",
+      "-sharing",
+      "github",
+      "splitter",
+      "expandable-chapters-small",
+      "anchor-navigation-ex"],
+    "pluginsConfig": {
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "all": []
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false
+        },
+        "github": {
+            "url": "http://localhost:4002/"
+        }
+    },
+    "pdf": {
+      "fontSize": 9,
+      "paperSize": "a4"
+    }
+}
