@@ -1,7 +1,10 @@
 # Vim 学习
+[flink_book](http://localhost:4001)  
+[vim_learn](http://localhost:4002)  
+[study_note](http://localhost:4003)  
+[work_note](http://localhost:4004)  
 
 记录 vim 的相关内容
-
 ## 使用
 * [复制剪切粘贴](use/复制剪切粘贴.md)
 * [删除](use/删除.md)

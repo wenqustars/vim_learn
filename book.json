@@ -28,11 +28,12 @@
             "google": false,
             "all": []
         },
+        "expandable-chapters-small":{},
         "anchor-navigation-ex": {
             "showLevel": false
         },
         "github": {
-            "url": "http://localhost:4002/"
+            "url": "https://github.com/wenqustars/vim_learn"
         }
     },
     "pdf": {
